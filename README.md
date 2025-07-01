@@ -6,7 +6,7 @@ Clothzy is a modern, full-stack fashion e-commerce platform built using **React 
 
 ## 🌐 Live Deployment
 
-🚀 Frontend: [WebEyeSoft Hosting Panel](https://www.webeyesoft.com/client-area/accounts/product/156)  
+🚀 Frontend: [Netlify Hosting Panel](https://app.netlify.com/projects/clothzzyshopping/overview)
 🛠️ Backend: Hosted via [Render](https://render.com/) or [Railway](https://railway.app/) *(if WebEyeSoft doesn’t support Node.js)*
 
 ---
